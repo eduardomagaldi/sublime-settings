@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"JavaScript Console",
+		"JsFormat",
+		"Local History",
+		"Package Control",
+		"SublimeLinter"
+	]
+}
